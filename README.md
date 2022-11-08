@@ -18,7 +18,7 @@ Le but de ce projet est de simuler la réception d'informations depuis un récep
 ##### Cloner le dépôt
 
     $ cd <répertoire d'installation du git>
-    $ git clone git@gitlab.com:cmamon/jdm-interface.git
+    $ git clone https://github.com/maiddima/iot_project_api.git
 
 ##### Aller dans le répertoire du projet
 
