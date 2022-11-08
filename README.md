@@ -46,7 +46,7 @@ Le but de ce projet est de simuler la réception d'informations depuis un récep
 ###### Importer le dashboard template .json dans le dossier ScreenAndTemplateGrafana sur Grafana
 
 ##### Capture de Grafana
-![alt text](https://github.com/maiddima/iot_project_api/ScreenAndTemplateGrafana/grafana_screen.png)
+![alt text](https://github.com/maiddima/iot_project_api/blob/master/ScreenAndTemplateGrafana/Grafana_screen.png)
 
 
 ### Membres
